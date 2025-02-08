@@ -1,8 +1,11 @@
-# demo2
+# ToDoo App
 
 A new Flutter project.
 
 ## Getting Started
+
+install or upgrade all depedence 
+All with the basic Todoo app
 
 This project is a starting point for a Flutter application.
 
